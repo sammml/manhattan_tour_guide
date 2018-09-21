@@ -1,7 +1,8 @@
-Miwok App
+Manhattan Tour Guide App
 ===================================
 
-This app displays lists of vocabulary details for the user to learn the Miwok language.
+This is an app display information gathered through the world wide web for manhattan NYC specific in must see, parks, museums and food creator enjoys.
+
 Used in a Udacity course in the Beginning Android Nanodegree.
 
 Pre-requisites
